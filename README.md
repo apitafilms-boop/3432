@@ -11,6 +11,9 @@
 ## HOW DO I HELP?
 * Archive this repo.
 * Send us digital currency.
+  - * 20% will help fund our research equitment. (calling apps, reverse facial analysis, etc.)
+  - * 30% will go towards homeless people.
+  - * 50% will go to LGBTQIA+ charities.
 
 ## DONATIONS:
 BTC:
